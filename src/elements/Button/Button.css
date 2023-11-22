@@ -1,0 +1,7 @@
+.buttonMain {
+  padding-left: 2px;
+}
+
+.buttonMain:hover {
+  color: darkgray;
+}

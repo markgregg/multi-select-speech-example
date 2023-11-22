@@ -1,0 +1,35 @@
+.tradeMain {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  z-index: 99;
+}
+
+.tradeBuySell {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.tradeBuySell h1 {
+  margin-block-start: .1em;
+  margin-block-end: .1em;
+}
+
+.tradeButton {
+  margin-top: 20px;
+  background-color: blue;
+  color: white;
+  width: 100px;
+  border-radius: 4px;
+  align-self: center;
+}
+
+.tradeButton:hover {
+  background-color: lightblue;
+  color: darkgray;
+}

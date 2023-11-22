@@ -1,0 +1,13 @@
+.windowMain {
+  display: flex;
+  flex-direction: column;
+  border: darkgray 1px solid;
+}
+
+.windowToolBar {
+  display: flex;
+  flex-direction: row;
+  column-gap: 5px;
+  background-color: white;
+  align-items: center;
+}
