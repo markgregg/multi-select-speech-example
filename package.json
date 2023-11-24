@@ -1,7 +1,7 @@
 {
-  "name": "mutli-source-select-example",
+  "name": "multi-select-speech-example",
   "version": "1.0.1",
-  "description": "Multi source select control",
+  "description": "Multi source select speech control",
   "author": "Mark Gregg <gregg.mark@gmail.com> (https://github.com/markgregg)",
   "license": "MIT",
   "homepage": "npm ",
@@ -18,7 +18,7 @@
     "@reduxjs/toolkit": "1.9.7",
     "ag-grid-community": "30.2.0",
     "ag-grid-react": "30.2.0",
-    "multi-select-speech": "1.0.5",
+    "multi-select-speech": "1.0.7",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "4.11.0",

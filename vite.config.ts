@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react-swc'
 import { viteStaticCopy } from 'vite-plugin-static-copy'
 
 export default defineConfig({
-  base: "multi-select-example",
+  base: "multi-select-speech-example",
   plugins: [
     react(),
     eslintPlugin(),
